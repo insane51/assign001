@@ -1,4 +1,4 @@
 {
   "pipelineId" : "100",
-  "Query" : "Select * from test1 "
+  "query" : "Select * from test1 "
 }
