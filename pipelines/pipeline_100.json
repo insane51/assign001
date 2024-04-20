@@ -1,4 +1,1 @@
-{
-  "pipelineId" : 100,
-  "query" : "Select * from test1 "
-}
+{"pipelineId":100,"query":"Select * from Spring Boot 1"}
