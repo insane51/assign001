@@ -1,1 +1,1 @@
-{"pipelineId":100,"query":"Select * from Spring Boot 2"}
+Pipeline(pipelineId=100, query=Select * from Spring Boot 3)
